@@ -33,5 +33,6 @@ object SqrtComputationUsingNewtonMethod {;import org.scalaide.worksheet.runtime.
   sqrt(0.001);System.out.println("""res3: Double = """ + $show(res$3));$skip(14); val res$4 = 
   sqrt(1e-20);System.out.println("""res4: Double = """ + $show(res$4));$skip(13); val res$5 = 
   sqrt(1e20);System.out.println("""res5: Double = """ + $show(res$5));$skip(13); val res$6 = 
-  sqrt(1e60);System.out.println("""res6: Double = """ + $show(res$6))}
+  sqrt(1e60);System.out.println("""res6: Double = """ + $show(res$6));$skip(11); val res$7 = 
+  sqrt(16);System.out.println("""res7: Double = """ + $show(res$7))}
 }

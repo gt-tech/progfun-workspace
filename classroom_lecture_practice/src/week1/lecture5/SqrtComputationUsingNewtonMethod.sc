@@ -34,4 +34,5 @@ object SqrtComputationUsingNewtonMethod {
   sqrt(1e-20)                                     //> res4: Double = 1.0000021484861236E-10
   sqrt(1e20)                                      //> res5: Double = 1.0000021484861237E10
   sqrt(1e60)                                      //> res6: Double = 1.0000788456669446E30
+  sqrt(16)                                        //> res7: Double = 4.000000636692939
 }
