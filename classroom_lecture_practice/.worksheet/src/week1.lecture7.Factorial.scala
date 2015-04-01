@@ -1,10 +1,10 @@
 package week1.lecture7
 
-object Factorial {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(302); 
+object Factorial {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(330); 
 
   // Factorial but not with tail-recursion as the
   // last call always have more than just the recursion
-  // forcing stack to be maintained instead of being re-used.
+  // forcing stack to be maintained instead of being re-used (so more a linear recursion)
   def factorial(num: Int): Int = {
     if (num == 0) 1 else num * factorial(num - 1)
   };System.out.println("""factorial: (num: Int)Int""");$skip(331); 

@@ -4,7 +4,7 @@ object Factorial {
 
   // Factorial but not with tail-recursion as the
   // last call always have more than just the recursion
-  // forcing stack to be maintained instead of being re-used.
+  // forcing stack to be maintained instead of being re-used (so more a linear recursion)
   def factorial(num: Int): Int = {
     if (num == 0) 1 else num * factorial(num - 1)
   }                                               //> factorial: (num: Int)Int
