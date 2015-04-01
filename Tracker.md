@@ -13,5 +13,5 @@
 * **3/31 Tuesday** - Week 1: Functions & Evaluations ***(3 hrs)***
   * Lectures 1.5 thru 1.7
   * Week 1 Assignments 
-  * Lecture 2.1
+  * Lecture 2.1, 2.2
   
