@@ -16,10 +16,13 @@
   * Lecture 2.1
   
   
-* **4/1 Tuesday** - Week 1: Functions & Evaluations ***(2 hrs)***  
+* **4/1 Wednesday** - Week 1: Functions & Evaluations ***(2.5 hrs)***  
   * Lecture 2.2, 2.3, 2.4, 2.5, 2.6, 2.7
+
   
-  
+* **4/2 Thursday** - Week 1: Functions & Evaluations ***(2.5 hrs)***  
+  * Book "Programming in Scala, Second Edition" Read upto Chapter 3 => Step 10
+
   
   ## ==============
   Next Step => Week 2 assignments
