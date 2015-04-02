@@ -13,9 +13,13 @@
 * **3/31 Tuesday** - Week 1: Functions & Evaluations ***(3 hrs)***
   * Lectures 1.5 thru 1.7
   * Week 1 Assignments 
-  * Lecture 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7
+  * Lecture 2.1
+  
+  
+* **4/1 Tuesday** - Week 1: Functions & Evaluations ***(2 hrs)***  
+  * Lecture 2.2, 2.3, 2.4, 2.5, 2.6, 2.7
   
   
   
-  ## =====================================================================
+  ## ==============
   Next Step => Week 2 assignments
