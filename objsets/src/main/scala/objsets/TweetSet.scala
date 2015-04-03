@@ -222,8 +222,9 @@ object GoogleVsApple {
   
   val tweetSet = TweetReader.allTweets
   lazy val googleTweets: TweetSet = tweetSet.filter { t => google.exists { k => t.text.contains(k) } }
-  lazy val appleTweets: TweetSet = tweetSet.filter { t => apple.exists { k => t.text.contains(k) } }
+  lazy val appleTweets: TweetSet = tweetSet.filter { t => apple.exists { k => t.text.contains(k) } } // TODO: Try to implement this without using lambda expression
 
+  
   /**
    * A list of all tweets mentioning a keyword from either apple or google,
    * sorted by the number of retweets.
