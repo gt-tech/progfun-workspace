@@ -27,5 +27,5 @@
   * Week 3 Assignments done
   
   
-* **4/3 Friday** - ***(???? hrs)***  
-  * Book "Programming in Scala, Second Edition" Read upto ?????
+* **4/5 Sunday** - ***(2 hrs)***  
+  * Lecture 4.1, 4.2, 4.3, 4.4, 4.5, 4.6
