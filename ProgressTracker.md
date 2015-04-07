@@ -30,8 +30,10 @@
 * **4/5 Sunday** - ***(2 hrs)***  
   * Lecture 4.1, 4.2, 4.3, 4.4, 4.5, 4.6
   
-* **4/6 Monday** - ***(2 hrs)***  
-  * Week 4 assignments (a must TODO again, most of it as-is were referenced from solutions found on internet)
+* **4/6 Monday** - ***(3 hrs)***  
+  * Week 4 assignments (_a must TODO again, most of it as-is were referenced from solutions found on internet_)
   * Lecture 5.1
   
+* **4/7 Tuesday** - ***(??? hrs)***  
+  * Lecture 5.2, 5.3, 5.4, 5.5 
   
