@@ -32,4 +32,6 @@
   
 * **4/6 Monday** - ***(2 hrs)***  
   * Week 4 assignments (a must TODO again, most of it as-is were referenced from solutions found on internet)
+  * Lecture 5.1
+  
   
