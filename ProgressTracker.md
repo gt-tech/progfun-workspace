@@ -34,6 +34,10 @@
   * Week 4 assignments (_a must TODO again, most of it as-is were referenced from solutions found on internet_)
   * Lecture 5.1
   
-* **4/7 Tuesday** - ***(??? hrs)***  
-  * Lecture 5.2, 5.3, 5.4, 5.5 
+* **4/7 Tuesday** - ***(2.5 hrs)***  
+  * Lecture 5.2, 5.3, 5.4, 5.5  
+  * Lecture 5.6 (just glanced thru as more academics related, student oriented), Lecture 5.7 skipped for same reason.
+  * Week 5 doesn't contain assignments.
+  * SICP Book - done until 1.2
+  * Book "Programming in Scala, Second Edition" Read upto Chapter 4 => Section 3 (#4.3)
   
