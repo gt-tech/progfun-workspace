@@ -5,9 +5,13 @@ object ReadLinesFromFile extends App {
   import scala.io.Source
 
   //override def main(args:Array[String]):Unit = {
+  println("Hi")
+  println("Arg -> " + args.length)
+  
   if (args.length <= 0)
     println("No argument name")
   else
+    println("else")
     args.foreach { x =>
       {
         println("Reading file -> " + x)

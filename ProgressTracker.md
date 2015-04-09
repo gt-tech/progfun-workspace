@@ -41,3 +41,9 @@
   * SICP Book - done until 1.2
   * Book "Programming in Scala, Second Edition" Read upto Chapter 4 => Section 3 (#4.3)
   
+* **4/8 Wednesday** - ***(1.5 hrs)***  
+  * Lecture 6.1, 6.2, 6.3 
+  * Book "Programming in Scala, Second Edition": Finished, Chapter 5
+  
+* **4/9 Thursday** - ***(??? hrs)***  
+  * Lecture 6.4
