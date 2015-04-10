@@ -46,4 +46,4 @@
   * Book "Programming in Scala, Second Edition": Finished, Chapter 5
   
 * **4/9 Thursday** - ***(??? hrs)***  
-  * Lecture 6.4
+  * Lecture 6.4, 6.5, 6.6, 6.7
