@@ -31,8 +31,9 @@
   * Lecture 4.1, 4.2, 4.3, 4.4, 4.5, 4.6
   
 * **4/6 Monday** - ***(3 hrs)***  
-  * Week 4 assignments (_a must TODO again, most of it as-is were referenced from solutions found on internet_)
+  * Week 4 assignments (_a must TODO again, a lot of reference was needed to solve them from existing solutions_)
   * Lecture 5.1
+  
   
 * **4/7 Tuesday** - ***(2.5 hrs)***  
   * Lecture 5.2, 5.3, 5.4, 5.5  
@@ -41,9 +42,17 @@
   * SICP Book - done until 1.2
   * Book "Programming in Scala, Second Edition" Read upto Chapter 4 => Section 3 (#4.3)
   
+  
 * **4/8 Wednesday** - ***(1.5 hrs)***  
   * Lecture 6.1, 6.2, 6.3 
   * Book "Programming in Scala, Second Edition": Finished, Chapter 5
   
-* **4/9 Thursday** - ***(??? hrs)***  
+  
+* **4/9 Thursday** - ***(2.5 hrs)***  
   * Lecture 6.4, 6.5, 6.6, 6.7
+  * Book "Programming in Scala, Second Edition" Read upto Chapter 7 => Section 2(#7.2)
+  
+  
+* **4/10 Friday** - ***(??? hrs)***  
+  * Book "Programming in Scala, Second Edition" Finished Chapter 8
+  * Week 6 assignments (_a must TODO again, a lot of reference was needed to solve them from existing solutions_) 
