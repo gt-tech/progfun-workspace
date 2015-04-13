@@ -55,12 +55,12 @@ object TraitPractice extends App {
 
   trait Carnivorous extends Species {
     abstract override def does(f: String => Unit) {
-      f("I am a carnivorous"); super.does(f)
+      f("I am a big carnivorous"); super.does(f)
     }
   }
   
   // let's put to demo
   val cat = new Cat() with FourLegged with Carnivorous
-  cat.name( x => println(x)) // TODO: Investigate why does println _ doesn't work (that's returning a partial function)
-  cat.does( x => println(x)) // TODO: Investigate why does println _ doesn't work (that's returning a partial function)
+  cat.name( println _ )
+  cat.does( x => println(x) ) 
 }

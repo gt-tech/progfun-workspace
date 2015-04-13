@@ -38,6 +38,7 @@ object SimpleFixedPointFindingExercise {
   // example of passing higher order function as argument as well as using a return function for average damping
   def sqrt_alt(x: Double) = fixedPoint( averageDamp( y => x/y) )(1.0)
                                                   //> sqrt_alt: (x: Double)Double
+  //def sqrt_alt(x: Double) = fixedPoint( averageDamp( y => x/y, _) )(1.0) // with currying/partial function.
   // Tip for understanding -> basically we have decorated our function of y => x/y by using the returned function from averageDamp and then
   // passed the decorated function as argument to fixedPoint function, this way the callback for lack of better word
   // from within loop method inside fixedPoint will actually call the function inside (or returned from averageDamp)
@@ -46,6 +47,8 @@ object SimpleFixedPointFindingExercise {
   
   def averageDamp(f: Double => Double)(num: Double) = (num + f(num)) / 2
                                                   //> averageDamp: (f: Double => Double)(num: Double)Double
+  
+  //def averageDamp(f: Double => Double, num: Double) = (num + f(num)) / 2
 
   sqrt(4)                                         //> res1: Double = 2.000000000000002
   sqrt_alt(4)                                     //> res2: Double = 2.000000000000002
