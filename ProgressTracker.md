@@ -67,4 +67,6 @@
   * Lecture 7.5. 7.6
   * Week 7 assignments (_a must TODO again, a lot of reference was needed to solve them from existing solutions_) 
   * MILESTONE: PROGFUN LECTURES AND ASSIGNMENTS - 1st PASS COMPLETE
+  * Book "Programming in Scala, Second Edition" Finished upto #15.7 (start from #15.8, review example done in Chapter 10 as well along the way)
+  * SICP Book - Chapter 1 finished.
   
