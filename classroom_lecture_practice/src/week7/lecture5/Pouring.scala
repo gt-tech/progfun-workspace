@@ -70,7 +70,7 @@ class Pouring(capacity: Vector[Int]) {
         if ! (explored contains next.endState)
       } yield next
       
-      paths #:: from(more, explored ++ ( more map { _.endState } ) ) // TODO: Why does from(more).append(paths) doesn't work, isn't it same for #:: ?
+      paths #:: from(more, explored ++ ( more map { _.endState } ) )
     }
   }
   
