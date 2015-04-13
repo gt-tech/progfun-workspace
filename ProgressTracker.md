@@ -62,5 +62,9 @@
 * **4/11 Saturday** - ***(1.5 hrs)***  
   * Book "Programming in Scala, Second Edition" Finished Chapter 14  
   
-* **4/12 Sunday** - ***(??? hrs)***  
+
+* **4/12 Sunday** - ***(5 hrs)***  
   * Lecture 7.5. 7.6
+  * Week 7 assignments (_a must TODO again, a lot of reference was needed to solve them from existing solutions_) 
+  * MILESTONE: PROGFUN LECTURES AND ASSIGNMENTS - 1st PASS COMPLETE
+  

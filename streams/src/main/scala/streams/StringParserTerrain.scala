@@ -54,10 +54,12 @@ trait StringParserTerrain extends GameDef {
    * by `levelVector`.
    */
   def terrainFunction(levelVector: Vector[Vector[Char]]): Pos => Boolean = {
-    pos =>
-      (pos.y >= 0) && (pos.y <= levelVector.size) && // row (y cordinate) of the position is between 0 and outer vector's size
-        (pos.x >= 0) && (pos.x <= levelVector(pos.y).size) && // col (x cordinate) of the position is between 0 and size of inner vector obtained at column in outer vector (y-cordinate)
-        (levelVector(pos.y)(pos.x) != '-') // and the value of row/col isn't '-'
+
+    pos => {      
+      (pos.row >= 0) && (pos.row < levelVector.size) && // row (y cordinate) of the position is between 0 and outer vector's size
+        (pos.col >= 0) && (pos.col < levelVector(pos.row).size) && // col (x cordinate) of the position is between 0 and size of inner vector obtained at column in outer vector (y-cordinate)
+        (levelVector(pos.row)(pos.col) != '-') // and the value of row/col isn't '-'
+    }
   }
 
   /**
@@ -70,15 +72,20 @@ trait StringParserTerrain extends GameDef {
    */
   def findChar(c: Char, levelVector: Vector[Vector[Char]]): Pos = {
     
-    @tailrec def impl(y: Int): Pos = { 
-      if ( y >= levelVector.size ) {
-        Pos(-1,-1) // out of bound row!
-      }
-      val x = levelVector(y).indexOf(c)
-      if ( x != -1 ) Pos(x, y)
-      else impl(y+1)
-    }
-    impl(0) // start iterating from 1st row
+    val row = levelVector.indexWhere(x => x.indexOf(c) >= 0)
+    val col = levelVector(row).indexOf(c)
+    Pos(row, col)
+    
+//    @tailrec def impl(y: Int): Pos = {
+//      if (y >= levelVector.size) {
+//        Pos(-1, -1) // out of bound row!
+//      }
+//      val x = levelVector(y).indexOf(c)
+//      if (x != -1) Pos(x, y)
+//      else impl(y + 1)
+//    }
+//    impl(0) // start iterating from 1st row
+    
   }
 
   private lazy val vector: Vector[Vector[Char]] =
