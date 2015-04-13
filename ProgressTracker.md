@@ -53,8 +53,14 @@
   * Book "Programming in Scala, Second Edition" Read upto Chapter 7 => Section 2(#7.2)
   
   
-* **4/10 Friday** - ***(??? hrs)***  
+* **4/10 Friday** - ***(4 hrs)***  
   * Book "Programming in Scala, Second Edition" Finished Chapter 11
   * Week 6 assignments (_a must TODO again, a lot of reference was needed to solve them from existing solutions_) 
   * Lecture 7.1 skipped as it's theory, not directly relevant
   * Lecture 7.2. 7.3, 7.4
+  
+* **4/11 Saturday** - ***(1.5 hrs)***  
+  * Book "Programming in Scala, Second Edition" Finished Chapter 14  
+  
+* **4/12 Sunday** - ***(??? hrs)***  
+  * Lecture 7.5. 7.6
