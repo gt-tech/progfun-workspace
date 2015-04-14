@@ -70,6 +70,8 @@
   * Book "Programming in Scala, Second Edition" Finished upto #15.7 (start from #15.8, review example done in Chapter 10 as well along the way)
   * SICP Book - Chapter 1 finished.
   
-* **4/13 Monday** - ***(??? hrs)***  
-  * Book "Programming in Scala, Second Edition" Finished upto #15.8 (finished Chapter 15)
+* **4/13 Monday** - ***(3 hrs)***  
+  * Book "Programming in Scala, Second Edition" - finished upto Chapter 16
+  
+* **4/14 Tuesday** - ***(??? hrs)***   
   
