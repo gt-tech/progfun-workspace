@@ -33,4 +33,7 @@ object NQueens_Workseet {
   //queens(4) map { x => show(x) }
   // also works by inference
   queens(4) map show                              //> res0: scala.collection.immutable.Set[Unit] = Set(())
+  
+  queens(4).foreach { x => println(x) }           //> List(1, 3, 0, 2)
+                                                  //| List(2, 0, 3, 1)
 }

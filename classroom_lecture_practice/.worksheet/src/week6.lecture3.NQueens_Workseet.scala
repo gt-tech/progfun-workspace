@@ -32,5 +32,7 @@ object NQueens_Workseet {;import org.scalaide.worksheet.runtime.library.Workshee
 
   //queens(4) map { x => show(x) }
   // also works by inference
-  queens(4) map show;System.out.println("""res0: scala.collection.immutable.Set[Unit] = """ + $show(res$0))}
+  queens(4) map show;System.out.println("""res0: scala.collection.immutable.Set[Unit] = """ + $show(res$0));$skip(43); 
+  
+  queens(4).foreach { x => println(x) }}
 }

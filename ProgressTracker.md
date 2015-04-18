@@ -73,5 +73,6 @@
 * **4/13 Monday** - ***(3 hrs)***  
   * Book "Programming in Scala, Second Edition" - finished upto Chapter 16
   
-* **4/14 Tuesday** - ***(??? hrs)***   
-  
+* **4/14 Tuesday** - ***(2 hrs)***   
+* Book "Programming in Scala, Second Edition" - finished upto Chapter 17, finished chapter 18 (minus case study in it)
+    
