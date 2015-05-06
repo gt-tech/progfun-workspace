@@ -76,6 +76,15 @@
 * **4/14 Tuesday** - ***(2 hrs)***   
 * Book "Programming in Scala, Second Edition" - finished upto Chapter 17, finished chapter 18 (minus case study in it)
 
-* **4/26 Tuesday** - ***(??? hrs)***   
+* **4/26 Sunday** - ***(3.5 hrs)***   
 * Book "Programming in Scala, Second Edition" - finished Chapter 19, 20, 21, 22, 23, 24, 25
     
+* **4/29 Wednesday** - ***(1.5 hrs)***   
+* Book "Programming in Scala, Second Edition" - finished Chapter 26, 27, 28
+
+* **4/30 Thursday** - ***(2 hrs)***   
+* Book "Programming in Scala, Second Edition" - finished Chapter 29, 30, 31
+
+* **5/5 Thursday** - ***(??? hrs)***   
+* Book "Programming in Scala, Second Edition" - finished Chapter 32 (skipped as scala actors deprecated), 33 (skipped - advanced and no immediate need for application), 34 (skipped - no immediate need to learn GUI programming beyond HTML/Javascript so skipping this (haven't even used swing in java in the past), 35 (skipped as will use different set of applications/project to practice hands-on scala. This practice application utilizes parsers and swing which has been skipped. May be revisit later in future time permitting to learn.)
+MILESTONE: "Programming in Scala, Second Edition" Book - First pass complete. 
